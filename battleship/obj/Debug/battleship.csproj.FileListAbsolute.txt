@@ -1,0 +1,257 @@
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\battleship.exe.config
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\battleship.exe
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\battleship.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.csproj.SuggestedBindingRedirects.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.Game.resources
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.Properties.Resources.resources
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.exe
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Microsoft.Win32.Registry.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.Asio.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.Core.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.Midi.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.Wasapi.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.WinForms.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.WinMM.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Drawing.Common.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Security.AccessControl.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Security.Principal.Windows.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Microsoft.Win32.Registry.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\NAudio.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Security.AccessControl.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Security.Principal.Windows.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.csproj.CopyComplete
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\obj\Debug\battleship.MainGame.resources
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\battleship.exe.config
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\battleship.exe
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\battleship.pdb
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.Asio.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.Core.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.Midi.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.WinForms.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.WinMM.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\NAudio.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.Game.resources
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.MainGame.resources
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.Properties.Resources.resources
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.csproj.CopyComplete
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.exe
+C:\Users\Alexhs\Desktop\battleship\battleship\obj\Debug\battleship.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\mongocrypt.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\AWSSDK.Core.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\DnsClient.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\MongoDB.Bson.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\MongoDB.Driver.Core.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\MongoDB.Driver.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\MongoDB.Libmongocrypt.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\SharpCompress.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Snappier.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Buffers.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Memory.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Numerics.Vectors.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Text.Encoding.CodePages.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\ZstdSharp.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\AWSSDK.Core.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\AWSSDK.Core.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\DnsClient.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\MongoDB.Bson.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\MongoDB.Driver.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\MongoDB.Driver.Core.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\Snappier.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Buffers.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Memory.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Numerics.Vectors.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Text.Encoding.CodePages.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\c#\battleship\battleship\battleship\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\mongocrypt.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\AWSSDK.Core.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\DnsClient.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\SharpCompress.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Snappier.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Buffers.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Memory.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\ZstdSharp.dll
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\AWSSDK.Core.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\DnsClient.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\Snappier.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Buffers.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Memory.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Alexhs\Desktop\battleship\battleship\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\mongocrypt.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\battleship.exe.config
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\battleship.exe
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\battleship.pdb
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\AWSSDK.Core.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\DnsClient.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.Asio.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.Core.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.Midi.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.WinForms.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.WinMM.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\SharpCompress.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Snappier.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Buffers.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Memory.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\ZstdSharp.dll
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\AWSSDK.Core.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\DnsClient.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\NAudio.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\Snappier.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Buffers.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Memory.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.Game.resources
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.MainGame.resources
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.Properties.Resources.resources
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.csproj.CopyComplete
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.exe
+C:\Users\Alexhs\source\repos\battleship\battleship\obj\Debug\battleship.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\mongocrypt.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\battleship.exe.config
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\battleship.exe
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\battleship.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\AWSSDK.Core.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\AWSSDK.SecurityToken.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\DnsClient.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Microsoft.Win32.Registry.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\MongoDB.Bson.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\MongoDB.Driver.Core.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\MongoDB.Driver.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\MongoDB.Libmongocrypt.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.Asio.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.Core.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.Midi.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.Wasapi.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.WinForms.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.WinMM.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\SharpCompress.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Snappier.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Buffers.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Drawing.Common.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Memory.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Numerics.Vectors.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Security.AccessControl.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Security.Principal.Windows.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Text.Encoding.CodePages.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\ZstdSharp.dll
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\AWSSDK.Core.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\AWSSDK.Core.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\AWSSDK.SecurityToken.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\AWSSDK.SecurityToken.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\DnsClient.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Microsoft.Win32.Registry.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\MongoDB.Bson.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\MongoDB.Driver.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\MongoDB.Driver.Core.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\NAudio.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\Snappier.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Buffers.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Memory.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Numerics.Vectors.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Security.AccessControl.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Security.Principal.Windows.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Text.Encoding.CodePages.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.csproj.SuggestedBindingRedirects.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.Game.resources
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.MainGame.resources
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.Properties.Resources.resources
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.csproj.CopyComplete
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.exe
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.pdb
+A:\IOANNIS\πανεπιστημιο extra\αντικειμενοστρεφης προγραμματισμος extra\battleship3\battleship\obj\Debug\battleship.ScoreBoard.resources
