@@ -1,4 +1,9 @@
 # Classic Battleship Game 
+![Screenshot_1](https://github.com/AlexhsV/Battleship-Multiplayer/assets/98179885/226b1120-807d-464d-a30c-c4f40b94f9e2)
+![Screenshot_2](https://github.com/AlexhsV/Battleship-Multiplayer/assets/98179885/9027358b-7c2c-4616-8d30-52b27a7d5674)
+![Screenshot_3](https://github.com/AlexhsV/Battleship-Multiplayer/assets/98179885/1615e68c-4ecf-48cd-92c3-2223e6d90af9)
+![Screenshot_7](https://github.com/AlexhsV/Battleship-Multiplayer/assets/98179885/92a92c8b-1525-4cd5-a8db-7005e4d00b92)
+![Screenshot_10](https://github.com/AlexhsV/Battleship-Multiplayer/assets/98179885/6938e5b8-57b1-4ce4-86c9-82fda20b849d)
 
 **Introduction**
 
